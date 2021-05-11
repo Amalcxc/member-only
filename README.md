@@ -3,7 +3,7 @@
 
 ### Members Only 
 
-## we builded an exclusive clubhouse where members can write anonymous posts. Inside the clubhouse, members can see who the author of a post is but, outside, they can only see the story.
+### we builded an exclusive clubhouse where members can write anonymous posts. Inside the clubhouse, members can see who the author of a post is but, outside, they can only see the story.
 
 ### Prerequisites
 
@@ -44,7 +44,7 @@
 - Save
 
 ​
-👤 **Authors**
+## 👤 **Authors**
 
 
 👤 **Alex Eponon**
