@@ -21,6 +21,7 @@
 - run 'git clone https://github.com/Anvi98/member-only.git'
 - cd member-only
 - type "bundler install"
+- rails db:migrate
 - rails s
 
 ### How to use it
