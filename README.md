@@ -5,6 +5,9 @@
 
 ### we builded an exclusive clubhouse where members can write anonymous posts. Inside the clubhouse, members can see who the author of a post is but, outside, they can only see the story.
 
+![screenshot](images/Screenshot 2021-05-11 at 6.39.02 PM.png)
+![screenshot](images/Screenshot 2021-05-11 at 6.39.47 PM.png)
+
 ### Prerequisites
 
 - Windows, Mac, or Linux machine 
