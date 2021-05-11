@@ -46,6 +46,7 @@
 ​
 ## 👤 **Authors**
 
+<br>
 
 👤 **Alex Eponon**
 ​
@@ -55,7 +56,7 @@
 
 - LinkedIn: [Alex Eponon](https://www.linkedin.com/in/anvi-alex-eponon/)
 
-
+<br>
 
 👤 **Amal Hersi**
 
